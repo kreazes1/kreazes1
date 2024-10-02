@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋! I'm Full-Stack developer</h1>
 <h3 align="center">Making my dreams come true</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kreazes-dev&label=Profile%20views&color=a8e2f5&style=flat" alt="kreazes-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kreazes-dev&label=Profile%20views&color=5c5c5c&style=plastic" alt="kreazes-dev" /> </p>
 
 - ✨ [Volpe Shop](https://discord.gg/volpe)
 
@@ -20,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kreazes-dev&show_icons=true&theme=tokyonight&title_color=f7d4d4&text_color=ffffff&bg_color=5c5c5c&locale=en" alt="kreazes-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kreazes-dev&theme=dark" alt="kreazes-dev" /></p>
-
