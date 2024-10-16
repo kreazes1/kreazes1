@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋! I'm Full-Stack developer</h1>
 <h3 align="center">Making my dreams come true</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kreazes1&label=Profile%20views&color=5c5c5c&style=plastic" alt="kreazes1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kreazes-dev&label=Profile%20views&color=5c5c5c&style=plastic" alt="kreazes-dev" /> </p>
 
 - ✨ [Clxn](https://discord.gg/destroyerclxn)
 
