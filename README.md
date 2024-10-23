@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kreazes-dev&label=Profile%20views&color=5c5c5c&style=plastic" alt="kreazes-dev" /> </p>
 
-- ✨ [Clxn](https://discord.gg/destroyerclxn)
-
-- ✨ [Telegram](https://t.me/kreazes)
+- ✨ [Sharp clxn](https://discord.gg/kX8zJVy3KW)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
