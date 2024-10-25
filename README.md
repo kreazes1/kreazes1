@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kreazes-dev&label=Profile%20views&color=5c5c5c&style=plastic" alt="kreazes-dev" /> </p>
 
 - ✨ [Sharp clxn](https://discord.gg/kX8zJVy3KW)
+- ✨ [Discord]([https://discord.gg/kX8zJVy3KW](https://discordapp.com/users/1204383733608742914/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
